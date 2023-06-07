@@ -1,3 +1,3 @@
 # SpeedTest
-Application for free speed test with reloading
-<h3>this app is made by <h1>Zakaria</h1> </h3>
+<h2>Application for free speed test with reloading using python</h2>
+<h1> Made By Zaki</h1>
